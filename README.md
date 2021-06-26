@@ -1,5 +1,5 @@
-- 👋 Hi, I’m linda k
-- 👀 I’m interested in data science and machine learning
+- 👋 Hi, I’m Linda K
+- 👀 I’m interested in data science and machine learning.
 - 🌱 I’m currently learning machine learning and Ai in Ontario Canada
 - 💞️ I’m looking to collaborate on bitching and moaning.
 - 📫 How to reach me hpbrickhead@gmail.com
